@@ -1,0 +1,2 @@
+ECHO is on.
+Today is June 6th. Time for practice!
