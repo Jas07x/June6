@@ -1,2 +1,3 @@
 ECHO is on.
 Practicing for 30 minutes today.
+Tomorrow I will learn about front-end. I plan to allot more time to this next lesson.
