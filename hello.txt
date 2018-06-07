@@ -1,0 +1,3 @@
+ECHO is on.
+Learning how to push files onto Github has been great! I believe I have practiced this long enough. Tomorrow I will start with a new lesson.
+I will end this practice session off by retaking my git quiz to see if my knowledge has truly improved.
