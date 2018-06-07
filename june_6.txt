@@ -1,2 +1,3 @@
 ECHO is on.
 Today is June 6th. Time for practice!
+Before moving into my first front-end lesson, I wanted to make sure I knew how to push files onto Github.

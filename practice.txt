@@ -1,3 +1,4 @@
 ECHO is on.
 Practicing for 30 minutes today.
 Tomorrow I will learn about front-end. I plan to allot more time to this next lesson.
+I did a sneak peak and saw HTML mentioned. I've learned basic HTML information in the past, can't wait to dig in deeper.
